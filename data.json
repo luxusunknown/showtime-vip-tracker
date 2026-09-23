@@ -12059,6 +12059,156 @@
    "exit": null,
    "pct": 60,
    "dollar": 60
+  },
+  {
+   "date": "2026-09-23",
+   "analyst": "ZONATRADES",
+   "ticker": "SPCX",
+   "win": false,
+   "entry": null,
+   "exit": null,
+   "pct": -15,
+   "dollar": -15
+  },
+  {
+   "date": "2026-09-23",
+   "analyst": "ZONATRADES",
+   "ticker": "QQQ",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 50,
+   "dollar": 50
+  },
+  {
+   "date": "2026-09-23",
+   "analyst": "ZONATRADES",
+   "ticker": "QQQ",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 75,
+   "dollar": 75
+  },
+  {
+   "date": "2026-09-23",
+   "analyst": "ZONATRADES",
+   "ticker": "QQQ",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 101,
+   "dollar": 101
+  },
+  {
+   "date": "2026-09-23",
+   "analyst": "ZONATRADES",
+   "ticker": "QQQ",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 56,
+   "dollar": 56
+  },
+  {
+   "date": "2026-09-23",
+   "analyst": "TAKINGFEES",
+   "ticker": "BE",
+   "win": false,
+   "entry": null,
+   "exit": null,
+   "pct": 0,
+   "dollar": 0
+  },
+  {
+   "date": "2026-09-23",
+   "analyst": "TAKINGFEES",
+   "ticker": "150C",
+   "win": false,
+   "entry": null,
+   "exit": null,
+   "pct": 0,
+   "dollar": 0
+  },
+  {
+   "date": "2026-09-23",
+   "analyst": "TAKINGFEES",
+   "ticker": "MSFT",
+   "win": false,
+   "entry": null,
+   "exit": null,
+   "pct": 0,
+   "dollar": 0
+  },
+  {
+   "date": "2026-09-23",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "QQQ",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 20,
+   "dollar": 20
+  },
+  {
+   "date": "2026-09-23",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "QQQ",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 40,
+   "dollar": 40
+  },
+  {
+   "date": "2026-09-23",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "QQQ",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 83,
+   "dollar": 83
+  },
+  {
+   "date": "2026-09-23",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "QQQ",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 105,
+   "dollar": 105
+  },
+  {
+   "date": "2026-09-23",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "QQQ",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 175,
+   "dollar": 175
+  },
+  {
+   "date": "2026-09-23",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "SPX",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 41,
+   "dollar": 41
+  },
+  {
+   "date": "2026-09-23",
+   "analyst": "SHOWTIME",
+   "ticker": "AAOI",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 60,
+   "dollar": 60
   }
  ],
  "dailySummaries": []
