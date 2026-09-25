@@ -12279,6 +12279,126 @@
    "exit": null,
    "pct": -20,
    "dollar": -20
+  },
+  {
+   "date": "2026-09-25",
+   "analyst": "ZONATRADES",
+   "ticker": "SPY",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 33,
+   "dollar": 33
+  },
+  {
+   "date": "2026-09-25",
+   "analyst": "LINK",
+   "ticker": "SPY",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 38,
+   "dollar": 38
+  },
+  {
+   "date": "2026-09-25",
+   "analyst": "LINK",
+   "ticker": "SPY",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 30,
+   "dollar": 30
+  },
+  {
+   "date": "2026-09-25",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "QCOM",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 22,
+   "dollar": 22
+  },
+  {
+   "date": "2026-09-25",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "QQQ",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 108,
+   "dollar": 108
+  },
+  {
+   "date": "2026-09-25",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "QCOM",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 45,
+   "dollar": 45
+  },
+  {
+   "date": "2026-09-25",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "QQQ",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 27,
+   "dollar": 27
+  },
+  {
+   "date": "2026-09-25",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "QCOM",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 128,
+   "dollar": 128
+  },
+  {
+   "date": "2026-09-25",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "QCOM",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 210,
+   "dollar": 210
+  },
+  {
+   "date": "2026-09-25",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "QQQ",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 26,
+   "dollar": 26
+  },
+  {
+   "date": "2026-09-25",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "QQQ",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 54,
+   "dollar": 54
+  },
+  {
+   "date": "2026-09-25",
+   "analyst": "SHOWTIME",
+   "ticker": "CRDO",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 13,
+   "dollar": 13
   }
  ],
  "dailySummaries": []
