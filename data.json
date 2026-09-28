@@ -12399,6 +12399,126 @@
    "exit": null,
    "pct": 13,
    "dollar": 13
+  },
+  {
+   "date": "2026-09-28",
+   "analyst": "ZONATRADES",
+   "ticker": "SPY",
+   "win": false,
+   "entry": null,
+   "exit": null,
+   "pct": -20,
+   "dollar": -20
+  },
+  {
+   "date": "2026-09-28",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "NVDA",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 21,
+   "dollar": 21
+  },
+  {
+   "date": "2026-09-28",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "QQQ",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 40,
+   "dollar": 40
+  },
+  {
+   "date": "2026-09-28",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "QQQ",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 69,
+   "dollar": 69
+  },
+  {
+   "date": "2026-09-28",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "QQQ",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 103,
+   "dollar": 103
+  },
+  {
+   "date": "2026-09-28",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "NVDA",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 15,
+   "dollar": 15
+  },
+  {
+   "date": "2026-09-28",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "QQQ",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 206,
+   "dollar": 206
+  },
+  {
+   "date": "2026-09-28",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "NVDA",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 42,
+   "dollar": 42
+  },
+  {
+   "date": "2026-09-28",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "QQQ",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 350,
+   "dollar": 350
+  },
+  {
+   "date": "2026-09-28",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "NVDA",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 104,
+   "dollar": 104
+  },
+  {
+   "date": "2026-09-28",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "QQQ",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 20,
+   "dollar": 20
+  },
+  {
+   "date": "2026-09-28",
+   "analyst": "SHOWTIME",
+   "ticker": "MRVL",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 88,
+   "dollar": 88
   }
  ],
  "dailySummaries": []
