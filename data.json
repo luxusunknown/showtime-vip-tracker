@@ -12519,6 +12519,76 @@
    "exit": null,
    "pct": 88,
    "dollar": 88
+  },
+  {
+   "date": "2026-09-29",
+   "analyst": "ZONATRADES",
+   "ticker": "QQQ",
+   "win": false,
+   "entry": null,
+   "exit": null,
+   "pct": -20,
+   "dollar": -20
+  },
+  {
+   "date": "2026-09-29",
+   "analyst": "SHOWTIME",
+   "ticker": "META",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 57,
+   "dollar": 57
+  },
+  {
+   "date": "2026-09-29",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "QQQ",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 22,
+   "dollar": 22
+  },
+  {
+   "date": "2026-09-29",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "QQQ",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 54,
+   "dollar": 54
+  },
+  {
+   "date": "2026-09-29",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "TSLA",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 16,
+   "dollar": 16
+  },
+  {
+   "date": "2026-09-29",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "TSLA",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 36,
+   "dollar": 36
+  },
+  {
+   "date": "2026-09-29",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "QQQ",
+   "win": false,
+   "entry": null,
+   "exit": null,
+   "pct": -20,
+   "dollar": -20
   }
  ],
  "dailySummaries": []
