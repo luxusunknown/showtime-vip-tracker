@@ -12589,6 +12589,236 @@
    "exit": null,
    "pct": -20,
    "dollar": -20
+  },
+  {
+   "date": "2026-09-30",
+   "analyst": "ZONATRADES",
+   "ticker": "TSLA",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 83,
+   "dollar": 83
+  },
+  {
+   "date": "2026-09-30",
+   "analyst": "ZONATRADES",
+   "ticker": "TSLA",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 100,
+   "dollar": 100
+  },
+  {
+   "date": "2026-09-30",
+   "analyst": "ZONATRADES",
+   "ticker": "TSLA",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 60,
+   "dollar": 60
+  },
+  {
+   "date": "2026-09-30",
+   "analyst": "ZONATRADES",
+   "ticker": "TSLA",
+   "win": false,
+   "entry": null,
+   "exit": null,
+   "pct": -20,
+   "dollar": -20
+  },
+  {
+   "date": "2026-09-30",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "MSFT",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 46,
+   "dollar": 46
+  },
+  {
+   "date": "2026-09-30",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "MSFT",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 111,
+   "dollar": 111
+  },
+  {
+   "date": "2026-09-30",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "QQQ",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 35,
+   "dollar": 35
+  },
+  {
+   "date": "2026-09-30",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "SPX",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 17,
+   "dollar": 17
+  },
+  {
+   "date": "2026-09-30",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "SPX",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 50,
+   "dollar": 50
+  },
+  {
+   "date": "2026-09-30",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "SPX",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 22,
+   "dollar": 22
+  },
+  {
+   "date": "2026-09-30",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "SPX",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 12,
+   "dollar": 12
+  },
+  {
+   "date": "2026-09-30",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "SPX",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 15,
+   "dollar": 15
+  },
+  {
+   "date": "2026-09-30",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "MSFT",
+   "win": false,
+   "entry": null,
+   "exit": null,
+   "pct": 0,
+   "dollar": 0
+  },
+  {
+   "date": "2026-09-30",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "MSFT",
+   "win": false,
+   "entry": null,
+   "exit": null,
+   "pct": 0,
+   "dollar": 0
+  },
+  {
+   "date": "2026-09-30",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "QQQ",
+   "win": false,
+   "entry": null,
+   "exit": null,
+   "pct": -20,
+   "dollar": -20
+  },
+  {
+   "date": "2026-09-30",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "QQQ",
+   "win": false,
+   "entry": null,
+   "exit": null,
+   "pct": 0,
+   "dollar": 0
+  },
+  {
+   "date": "2026-09-30",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "SPX",
+   "win": false,
+   "entry": null,
+   "exit": null,
+   "pct": 0,
+   "dollar": 0
+  },
+  {
+   "date": "2026-09-30",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "SPX",
+   "win": false,
+   "entry": null,
+   "exit": null,
+   "pct": 0,
+   "dollar": 0
+  },
+  {
+   "date": "2026-09-30",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "SPX",
+   "win": false,
+   "entry": null,
+   "exit": null,
+   "pct": 0,
+   "dollar": 0
+  },
+  {
+   "date": "2026-09-30",
+   "analyst": "LINK",
+   "ticker": "SPY",
+   "win": false,
+   "entry": null,
+   "exit": null,
+   "pct": 0,
+   "dollar": 0
+  },
+  {
+   "date": "2026-09-30",
+   "analyst": "WONA",
+   "ticker": "TSLA",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 21,
+   "dollar": 21
+  },
+  {
+   "date": "2026-09-30",
+   "analyst": "WONA",
+   "ticker": "TSLA",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 60,
+   "dollar": 60
+  },
+  {
+   "date": "2026-09-30",
+   "analyst": "SHOWTIME",
+   "ticker": "AMD",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 44,
+   "dollar": 44
   }
  ],
  "dailySummaries": []
