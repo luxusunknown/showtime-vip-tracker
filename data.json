@@ -12999,6 +12999,76 @@
    "exit": null,
    "pct": 505,
    "dollar": 505
+  },
+  {
+   "date": "2026-10-02",
+   "analyst": "ZONATRADES",
+   "ticker": "TSLA",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 27,
+   "dollar": 27
+  },
+  {
+   "date": "2026-10-02",
+   "analyst": "ZONATRADES",
+   "ticker": "TSLA",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 52,
+   "dollar": 52
+  },
+  {
+   "date": "2026-10-02",
+   "analyst": "ZONATRADES",
+   "ticker": "TSLA",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 112,
+   "dollar": 112
+  },
+  {
+   "date": "2026-10-02",
+   "analyst": "ZONATRADES",
+   "ticker": "TSLA",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 48,
+   "dollar": 48
+  },
+  {
+   "date": "2026-10-02",
+   "analyst": "SHOWTIME",
+   "ticker": "AAOI",
+   "win": false,
+   "entry": null,
+   "exit": null,
+   "pct": 0,
+   "dollar": 0
+  },
+  {
+   "date": "2026-10-02",
+   "analyst": "TAKINGFEES",
+   "ticker": "NBIS",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 70,
+   "dollar": 70
+  },
+  {
+   "date": "2026-10-02",
+   "analyst": "TAKINGFEES",
+   "ticker": "MSTR",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 33,
+   "dollar": 33
   }
  ],
  "dailySummaries": []
