@@ -13069,6 +13069,86 @@
    "exit": null,
    "pct": 33,
    "dollar": 33
+  },
+  {
+   "date": "2026-10-05",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "TSLA",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 25,
+   "dollar": 25
+  },
+  {
+   "date": "2026-10-05",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "TSLA",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 34,
+   "dollar": 34
+  },
+  {
+   "date": "2026-10-05",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "TSLA",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 115,
+   "dollar": 115
+  },
+  {
+   "date": "2026-10-05",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "TSLA",
+   "win": false,
+   "entry": null,
+   "exit": null,
+   "pct": -20,
+   "dollar": -20
+  },
+  {
+   "date": "2026-10-05",
+   "analyst": "LINK",
+   "ticker": "SPY",
+   "win": false,
+   "entry": null,
+   "exit": null,
+   "pct": -20,
+   "dollar": -20
+  },
+  {
+   "date": "2026-10-05",
+   "analyst": "LINK",
+   "ticker": "SPY",
+   "win": false,
+   "entry": null,
+   "exit": null,
+   "pct": -20,
+   "dollar": -20
+  },
+  {
+   "date": "2026-10-05",
+   "analyst": "SHOWTIME",
+   "ticker": "AMD",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 60,
+   "dollar": 60
+  },
+  {
+   "date": "2026-10-05",
+   "analyst": "SHOWTIME",
+   "ticker": "RKLB",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 63,
+   "dollar": 63
   }
  ],
  "dailySummaries": []
