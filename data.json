@@ -13149,6 +13149,106 @@
    "exit": null,
    "pct": 63,
    "dollar": 63
+  },
+  {
+   "date": "2026-10-06",
+   "analyst": "ZONATRADES",
+   "ticker": "QQQ",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 15,
+   "dollar": 15
+  },
+  {
+   "date": "2026-10-06",
+   "analyst": "TAKINGFEES",
+   "ticker": "PLTR",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 78,
+   "dollar": 78
+  },
+  {
+   "date": "2026-10-06",
+   "analyst": "TAKINGFEES",
+   "ticker": "BA",
+   "win": false,
+   "entry": null,
+   "exit": null,
+   "pct": -50,
+   "dollar": -50
+  },
+  {
+   "date": "2026-10-06",
+   "analyst": "TAKINGFEES",
+   "ticker": "PLTR",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 35,
+   "dollar": 35
+  },
+  {
+   "date": "2026-10-06",
+   "analyst": "LINK",
+   "ticker": "SPY",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 15,
+   "dollar": 15
+  },
+  {
+   "date": "2026-10-06",
+   "analyst": "SHOWTIME",
+   "ticker": "NBIS",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 60,
+   "dollar": 60
+  },
+  {
+   "date": "2026-10-06",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "SPY",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 20,
+   "dollar": 20
+  },
+  {
+   "date": "2026-10-06",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "SPY",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 23,
+   "dollar": 23
+  },
+  {
+   "date": "2026-10-06",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "SPY",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 46,
+   "dollar": 46
+  },
+  {
+   "date": "2026-10-06",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "SPY",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 60,
+   "dollar": 60
   }
  ],
  "dailySummaries": []
