@@ -13369,6 +13369,226 @@
    "exit": null,
    "pct": 66,
    "dollar": 66
+  },
+  {
+   "date": "2026-10-08",
+   "analyst": "SHOWTIME",
+   "ticker": "AAOI",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 40,
+   "dollar": 40
+  },
+  {
+   "date": "2026-10-08",
+   "analyst": "SHOWTIME",
+   "ticker": "AMD",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 55,
+   "dollar": 55
+  },
+  {
+   "date": "2026-10-08",
+   "analyst": "SHOWTIME",
+   "ticker": "MRVL",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 70,
+   "dollar": 70
+  },
+  {
+   "date": "2026-10-08",
+   "analyst": "SHOWTIME",
+   "ticker": "GOOGL",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 20,
+   "dollar": 20
+  },
+  {
+   "date": "2026-10-08",
+   "analyst": "ZONATRADES",
+   "ticker": "SPY",
+   "win": false,
+   "entry": null,
+   "exit": null,
+   "pct": -9,
+   "dollar": -9
+  },
+  {
+   "date": "2026-10-08",
+   "analyst": "ZONATRADES",
+   "ticker": "SPY",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 55,
+   "dollar": 55
+  },
+  {
+   "date": "2026-10-08",
+   "analyst": "ZONATRADES",
+   "ticker": "SPCX",
+   "win": false,
+   "entry": null,
+   "exit": null,
+   "pct": 0,
+   "dollar": 0
+  },
+  {
+   "date": "2026-10-08",
+   "analyst": "TAKINGFEES",
+   "ticker": "PLTR",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 209,
+   "dollar": 209
+  },
+  {
+   "date": "2026-10-08",
+   "analyst": "TAKINGFEES",
+   "ticker": "PLTR",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 289,
+   "dollar": 289
+  },
+  {
+   "date": "2026-10-08",
+   "analyst": "TAKINGFEES",
+   "ticker": "NVDA",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 31,
+   "dollar": 31
+  },
+  {
+   "date": "2026-10-08",
+   "analyst": "TAKINGFEES",
+   "ticker": "NVDA",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 50,
+   "dollar": 50
+  },
+  {
+   "date": "2026-10-08",
+   "analyst": "TAKINGFEES",
+   "ticker": "NVDA",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 92,
+   "dollar": 92
+  },
+  {
+   "date": "2026-10-08",
+   "analyst": "TAKINGFEES",
+   "ticker": "NVDA",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 50,
+   "dollar": 50
+  },
+  {
+   "date": "2026-10-08",
+   "analyst": "TAKINGFEES",
+   "ticker": "NBIS",
+   "win": false,
+   "entry": null,
+   "exit": null,
+   "pct": -64,
+   "dollar": -64
+  },
+  {
+   "date": "2026-10-08",
+   "analyst": "LINK",
+   "ticker": "SPY",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 55,
+   "dollar": 55
+  },
+  {
+   "date": "2026-10-08",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "QQQ",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 20,
+   "dollar": 20
+  },
+  {
+   "date": "2026-10-08",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "QQQ",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 115,
+   "dollar": 115
+  },
+  {
+   "date": "2026-10-08",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "QQQ",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 45,
+   "dollar": 45
+  },
+  {
+   "date": "2026-10-08",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "QQQ",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 70,
+   "dollar": 70
+  },
+  {
+   "date": "2026-10-08",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "QQQ",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 32,
+   "dollar": 32
+  },
+  {
+   "date": "2026-10-08",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "SPX",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 23,
+   "dollar": 23
+  },
+  {
+   "date": "2026-10-08",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "SPX",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 67,
+   "dollar": 67
   }
  ],
  "dailySummaries": []
