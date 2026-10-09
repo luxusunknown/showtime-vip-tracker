@@ -13589,6 +13589,96 @@
    "exit": null,
    "pct": 67,
    "dollar": 67
+  },
+  {
+   "date": "2026-10-09",
+   "analyst": "ZONATRADES",
+   "ticker": "TSLA",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 17,
+   "dollar": 17
+  },
+  {
+   "date": "2026-10-09",
+   "analyst": "ZONATRADES",
+   "ticker": "TSLA",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 49,
+   "dollar": 49
+  },
+  {
+   "date": "2026-10-09",
+   "analyst": "ZONATRADES",
+   "ticker": "TSLA",
+   "win": false,
+   "entry": null,
+   "exit": null,
+   "pct": -20,
+   "dollar": -20
+  },
+  {
+   "date": "2026-10-09",
+   "analyst": "ZONATRADES",
+   "ticker": "SPY",
+   "win": false,
+   "entry": null,
+   "exit": null,
+   "pct": -20,
+   "dollar": -20
+  },
+  {
+   "date": "2026-10-09",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "QQQ",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 21,
+   "dollar": 21
+  },
+  {
+   "date": "2026-10-09",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "MU",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 20,
+   "dollar": 20
+  },
+  {
+   "date": "2026-10-09",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "MU",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 6,
+   "dollar": 6
+  },
+  {
+   "date": "2026-10-09",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "MU",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 34,
+   "dollar": 34
+  },
+  {
+   "date": "2026-10-09",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "QQQ",
+   "win": false,
+   "entry": null,
+   "exit": null,
+   "pct": -20,
+   "dollar": -20
   }
  ],
  "dailySummaries": []
