@@ -13679,6 +13679,156 @@
    "exit": null,
    "pct": -20,
    "dollar": -20
+  },
+  {
+   "date": "2026-10-12",
+   "analyst": "TAKINGFEES",
+   "ticker": "NOW",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 52,
+   "dollar": 52
+  },
+  {
+   "date": "2026-10-12",
+   "analyst": "TAKINGFEES",
+   "ticker": "INTC",
+   "win": false,
+   "entry": null,
+   "exit": null,
+   "pct": -44,
+   "dollar": -44
+  },
+  {
+   "date": "2026-10-12",
+   "analyst": "TAKINGFEES",
+   "ticker": "ORCL",
+   "win": false,
+   "entry": null,
+   "exit": null,
+   "pct": -46,
+   "dollar": -46
+  },
+  {
+   "date": "2026-10-12",
+   "analyst": "TAKINGFEES",
+   "ticker": "SMCI",
+   "win": false,
+   "entry": null,
+   "exit": null,
+   "pct": -50,
+   "dollar": -50
+  },
+  {
+   "date": "2026-10-12",
+   "analyst": "TAKINGFEES",
+   "ticker": "NOW",
+   "win": false,
+   "entry": null,
+   "exit": null,
+   "pct": -15,
+   "dollar": -15
+  },
+  {
+   "date": "2026-10-12",
+   "analyst": "ZONATRADES",
+   "ticker": "TSLA",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 22,
+   "dollar": 22
+  },
+  {
+   "date": "2026-10-12",
+   "analyst": "ZONATRADES",
+   "ticker": "TSLA",
+   "win": false,
+   "entry": null,
+   "exit": null,
+   "pct": -8,
+   "dollar": -8
+  },
+  {
+   "date": "2026-10-12",
+   "analyst": "ZONATRADES",
+   "ticker": "TSLA",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 19,
+   "dollar": 19
+  },
+  {
+   "date": "2026-10-12",
+   "analyst": "ZONATRADES",
+   "ticker": "TSLA",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 37,
+   "dollar": 37
+  },
+  {
+   "date": "2026-10-12",
+   "analyst": "ZONATRADES",
+   "ticker": "TSLA",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 4,
+   "dollar": 4
+  },
+  {
+   "date": "2026-10-12",
+   "analyst": "ZONATRADES",
+   "ticker": "AMD",
+   "win": false,
+   "entry": null,
+   "exit": null,
+   "pct": -8,
+   "dollar": -8
+  },
+  {
+   "date": "2026-10-12",
+   "analyst": "ZONATRADES",
+   "ticker": "AMD",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 35,
+   "dollar": 35
+  },
+  {
+   "date": "2026-10-12",
+   "analyst": "ZONATRADES",
+   "ticker": "AMD",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 34,
+   "dollar": 34
+  },
+  {
+   "date": "2026-10-12",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "SPX",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 54,
+   "dollar": 54
+  },
+  {
+   "date": "2026-10-12",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "SPX",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 173,
+   "dollar": 173
   }
  ],
  "dailySummaries": []
