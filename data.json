@@ -13829,6 +13829,36 @@
    "exit": null,
    "pct": 173,
    "dollar": 173
+  },
+  {
+   "date": "2026-10-13",
+   "analyst": "ZONATRADES",
+   "ticker": "QQQ",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 8,
+   "dollar": 8
+  },
+  {
+   "date": "2026-10-13",
+   "analyst": "ZONATRADES",
+   "ticker": "QQQ",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 20,
+   "dollar": 20
+  },
+  {
+   "date": "2026-10-13",
+   "analyst": "SHOWTIME",
+   "ticker": "HOOD",
+   "win": false,
+   "entry": null,
+   "exit": null,
+   "pct": -20,
+   "dollar": -20
   }
  ],
  "dailySummaries": []
