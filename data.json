@@ -13859,6 +13859,176 @@
    "exit": null,
    "pct": -20,
    "dollar": -20
+  },
+  {
+   "date": "2026-10-14",
+   "analyst": "ZONATRADES",
+   "ticker": "SPY",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 18,
+   "dollar": 18
+  },
+  {
+   "date": "2026-10-14",
+   "analyst": "ZONATRADES",
+   "ticker": "SPY",
+   "win": false,
+   "entry": null,
+   "exit": null,
+   "pct": -20,
+   "dollar": -20
+  },
+  {
+   "date": "2026-10-14",
+   "analyst": "SHOWTIME",
+   "ticker": "HOOD",
+   "win": false,
+   "entry": null,
+   "exit": null,
+   "pct": -30,
+   "dollar": -30
+  },
+  {
+   "date": "2026-10-14",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "NVDA",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 34,
+   "dollar": 34
+  },
+  {
+   "date": "2026-10-14",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "TSLA",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 28,
+   "dollar": 28
+  },
+  {
+   "date": "2026-10-14",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "TSLA",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 56,
+   "dollar": 56
+  },
+  {
+   "date": "2026-10-14",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "QQQ",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 30,
+   "dollar": 30
+  },
+  {
+   "date": "2026-10-14",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "QQQ",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 150,
+   "dollar": 150
+  },
+  {
+   "date": "2026-10-14",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "QQQ",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 205,
+   "dollar": 205
+  },
+  {
+   "date": "2026-10-14",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "QQQ",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 300,
+   "dollar": 300
+  },
+  {
+   "date": "2026-10-14",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "QQQ",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 16,
+   "dollar": 16
+  },
+  {
+   "date": "2026-10-14",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "QQQ",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 21,
+   "dollar": 21
+  },
+  {
+   "date": "2026-10-14",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "SPX",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 53,
+   "dollar": 53
+  },
+  {
+   "date": "2026-10-14",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "SPX",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 85,
+   "dollar": 85
+  },
+  {
+   "date": "2026-10-14",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "NVDA",
+   "win": false,
+   "entry": null,
+   "exit": null,
+   "pct": -20,
+   "dollar": -20
+  },
+  {
+   "date": "2026-10-14",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "TSLA",
+   "win": false,
+   "entry": null,
+   "exit": null,
+   "pct": -20,
+   "dollar": -20
+  },
+  {
+   "date": "2026-10-14",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "QQQ",
+   "win": false,
+   "entry": null,
+   "exit": null,
+   "pct": -20,
+   "dollar": -20
   }
  ],
  "dailySummaries": []
