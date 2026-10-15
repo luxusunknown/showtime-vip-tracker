@@ -14029,6 +14029,116 @@
    "exit": null,
    "pct": -20,
    "dollar": -20
+  },
+  {
+   "date": "2026-10-15",
+   "analyst": "ZONATRADES",
+   "ticker": "SPY",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 28,
+   "dollar": 28
+  },
+  {
+   "date": "2026-10-15",
+   "analyst": "ZONATRADES",
+   "ticker": "SPY",
+   "win": false,
+   "entry": null,
+   "exit": null,
+   "pct": -50,
+   "dollar": -50
+  },
+  {
+   "date": "2026-10-15",
+   "analyst": "ZONATRADES",
+   "ticker": "QQQ",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 57,
+   "dollar": 57
+  },
+  {
+   "date": "2026-10-15",
+   "analyst": "ZONATRADES",
+   "ticker": "QQQ",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 25,
+   "dollar": 25
+  },
+  {
+   "date": "2026-10-15",
+   "analyst": "ZONATRADES",
+   "ticker": "TSLA",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 20,
+   "dollar": 20
+  },
+  {
+   "date": "2026-10-15",
+   "analyst": "SHOWTIME",
+   "ticker": "AAOI",
+   "win": false,
+   "entry": null,
+   "exit": null,
+   "pct": 0,
+   "dollar": 0
+  },
+  {
+   "date": "2026-10-15",
+   "analyst": "SHOWTIME",
+   "ticker": "AAOI",
+   "win": false,
+   "entry": null,
+   "exit": null,
+   "pct": 0,
+   "dollar": 0
+  },
+  {
+   "date": "2026-10-15",
+   "analyst": "SHOWTIME",
+   "ticker": "AAOI",
+   "win": false,
+   "entry": null,
+   "exit": null,
+   "pct": 0,
+   "dollar": 0
+  },
+  {
+   "date": "2026-10-15",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "QQQ",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 24,
+   "dollar": 24
+  },
+  {
+   "date": "2026-10-15",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "QQQ",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 31,
+   "dollar": 31
+  },
+  {
+   "date": "2026-10-15",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "QQQ",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 44,
+   "dollar": 44
   }
  ],
  "dailySummaries": []
