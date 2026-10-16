@@ -14139,6 +14139,266 @@
    "exit": null,
    "pct": 44,
    "dollar": 44
+  },
+  {
+   "date": "2026-10-16",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "QQQ",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 209,
+   "dollar": 209
+  },
+  {
+   "date": "2026-10-16",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "QQQ",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 27,
+   "dollar": 27
+  },
+  {
+   "date": "2026-10-16",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "QQQ",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 45,
+   "dollar": 45
+  },
+  {
+   "date": "2026-10-16",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "QQQ",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 65,
+   "dollar": 65
+  },
+  {
+   "date": "2026-10-16",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "QQQ",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 104,
+   "dollar": 104
+  },
+  {
+   "date": "2026-10-16",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "QQQ",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 179,
+   "dollar": 179
+  },
+  {
+   "date": "2026-10-16",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "QQQ",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 246,
+   "dollar": 246
+  },
+  {
+   "date": "2026-10-16",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "MU",
+   "win": false,
+   "entry": null,
+   "exit": null,
+   "pct": -80,
+   "dollar": -80
+  },
+  {
+   "date": "2026-10-16",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "QQQ",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 144,
+   "dollar": 144
+  },
+  {
+   "date": "2026-10-16",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "SPX",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 41,
+   "dollar": 41
+  },
+  {
+   "date": "2026-10-16",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "TSLA",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": -44,
+   "dollar": -44
+  },
+  {
+   "date": "2026-10-16",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "TSLA",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 30,
+   "dollar": 30
+  },
+  {
+   "date": "2026-10-16",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "TSLA",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 123,
+   "dollar": 123
+  },
+  {
+   "date": "2026-10-16",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "QQQ",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 246,
+   "dollar": 246
+  },
+  {
+   "date": "2026-10-16",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "MU",
+   "win": false,
+   "entry": null,
+   "exit": null,
+   "pct": -80,
+   "dollar": -80
+  },
+  {
+   "date": "2026-10-16",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "SPX",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 61,
+   "dollar": 61
+  },
+  {
+   "date": "2026-10-16",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "SPX",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 96,
+   "dollar": 96
+  },
+  {
+   "date": "2026-10-16",
+   "analyst": "ZONATRADES",
+   "ticker": "TSLA",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 49,
+   "dollar": 49
+  },
+  {
+   "date": "2026-10-16",
+   "analyst": "ZONATRADES",
+   "ticker": "NBIS",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 26,
+   "dollar": 26
+  },
+  {
+   "date": "2026-10-16",
+   "analyst": "ZONATRADES",
+   "ticker": "NBIS",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 53,
+   "dollar": 53
+  },
+  {
+   "date": "2026-10-16",
+   "analyst": "ZONATRADES",
+   "ticker": "NBIS",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 30,
+   "dollar": 30
+  },
+  {
+   "date": "2026-10-16",
+   "analyst": "ZONATRADES",
+   "ticker": "QQQ",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 33,
+   "dollar": 33
+  },
+  {
+   "date": "2026-10-16",
+   "analyst": "ZONATRADES",
+   "ticker": "QQQ",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 70,
+   "dollar": 70
+  },
+  {
+   "date": "2026-10-16",
+   "analyst": "ZONATRADES",
+   "ticker": "QQQ",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 42,
+   "dollar": 42
+  },
+  {
+   "date": "2026-10-16",
+   "analyst": "ZONATRADES",
+   "ticker": "NBIS",
+   "win": false,
+   "entry": null,
+   "exit": null,
+   "pct": -20,
+   "dollar": -20
+  },
+  {
+   "date": "2026-10-16",
+   "analyst": "ZONATRADES",
+   "ticker": "QQQ",
+   "win": false,
+   "entry": null,
+   "exit": null,
+   "pct": -20,
+   "dollar": -20
   }
  ],
  "dailySummaries": []
