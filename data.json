@@ -14399,6 +14399,56 @@
    "exit": null,
    "pct": -20,
    "dollar": -20
+  },
+  {
+   "date": "2026-10-19",
+   "analyst": "LINK",
+   "ticker": "NBIS",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 100,
+   "dollar": 100
+  },
+  {
+   "date": "2026-10-19",
+   "analyst": "LINK",
+   "ticker": "SPY",
+   "win": false,
+   "entry": null,
+   "exit": null,
+   "pct": -20,
+   "dollar": -20
+  },
+  {
+   "date": "2026-10-19",
+   "analyst": "ZONATRADES",
+   "ticker": "QQQ",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 10,
+   "dollar": 10
+  },
+  {
+   "date": "2026-10-19",
+   "analyst": "ZONATRADES",
+   "ticker": "SPY",
+   "win": false,
+   "entry": null,
+   "exit": null,
+   "pct": 0,
+   "dollar": 0
+  },
+  {
+   "date": "2026-10-19",
+   "analyst": "ZONATRADES",
+   "ticker": "META",
+   "win": false,
+   "entry": null,
+   "exit": null,
+   "pct": -20,
+   "dollar": -20
   }
  ],
  "dailySummaries": []
