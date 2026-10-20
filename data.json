@@ -14449,6 +14449,76 @@
    "exit": null,
    "pct": -20,
    "dollar": -20
+  },
+  {
+   "date": "2026-10-20",
+   "analyst": "ZONATRADES",
+   "ticker": "SPY",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 52,
+   "dollar": 52
+  },
+  {
+   "date": "2026-10-20",
+   "analyst": "ZONATRADES",
+   "ticker": "SPY",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 31,
+   "dollar": 31
+  },
+  {
+   "date": "2026-10-20",
+   "analyst": "ZONATRADES",
+   "ticker": "SPY",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 57,
+   "dollar": 57
+  },
+  {
+   "date": "2026-10-20",
+   "analyst": "ZONATRADES",
+   "ticker": "SPY",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 102,
+   "dollar": 102
+  },
+  {
+   "date": "2026-10-20",
+   "analyst": "ZONATRADES",
+   "ticker": "SPY",
+   "win": false,
+   "entry": null,
+   "exit": null,
+   "pct": -57,
+   "dollar": -57
+  },
+  {
+   "date": "2026-10-20",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "QQQ",
+   "win": false,
+   "entry": null,
+   "exit": null,
+   "pct": -36,
+   "dollar": -36
+  },
+  {
+   "date": "2026-10-20",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "QQQ",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 23,
+   "dollar": 23
   }
  ],
  "dailySummaries": []
