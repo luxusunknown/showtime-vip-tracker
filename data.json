@@ -14519,6 +14519,136 @@
    "exit": null,
    "pct": 23,
    "dollar": 23
+  },
+  {
+   "date": "2026-10-21",
+   "analyst": "ZONATRADES",
+   "ticker": "QQQ",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 27,
+   "dollar": 27
+  },
+  {
+   "date": "2026-10-21",
+   "analyst": "ZONATRADES",
+   "ticker": "QQQ",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 64,
+   "dollar": 64
+  },
+  {
+   "date": "2026-10-21",
+   "analyst": "ZONATRADES",
+   "ticker": "QQQ",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 89,
+   "dollar": 89
+  },
+  {
+   "date": "2026-10-21",
+   "analyst": "ZONATRADES",
+   "ticker": "QQQ",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 53,
+   "dollar": 53
+  },
+  {
+   "date": "2026-10-21",
+   "analyst": "TAKINGFEES",
+   "ticker": "NOW",
+   "win": false,
+   "entry": null,
+   "exit": null,
+   "pct": 0,
+   "dollar": 0
+  },
+  {
+   "date": "2026-10-21",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "QQQ",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 20,
+   "dollar": 20
+  },
+  {
+   "date": "2026-10-21",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "QQQ",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 20,
+   "dollar": 20
+  },
+  {
+   "date": "2026-10-21",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "QQQ",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 43,
+   "dollar": 43
+  },
+  {
+   "date": "2026-10-21",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "QQQ",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 60,
+   "dollar": 60
+  },
+  {
+   "date": "2026-10-21",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "QQQ",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 82,
+   "dollar": 82
+  },
+  {
+   "date": "2026-10-21",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "QQQ",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 169,
+   "dollar": 169
+  },
+  {
+   "date": "2026-10-21",
+   "analyst": "BRAD INVESTMENTS",
+   "ticker": "QQQ",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 213,
+   "dollar": 213
+  },
+  {
+   "date": "2026-10-21",
+   "analyst": "SHOWTIME",
+   "ticker": "NBIS",
+   "win": true,
+   "entry": null,
+   "exit": null,
+   "pct": 72,
+   "dollar": 72
   }
  ],
  "dailySummaries": []
